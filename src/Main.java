@@ -47,7 +47,7 @@ public class Main {
         var time = 640;
         var ui = 8;
         var people = time / ui ;
-        System.out.println("Всего работников в компании - " + people +  " человек " );
+        System.out.println("Всего работников в компании -  " + people +  " человек " );
 
         people = people + 94;
         System.out.println(people);
